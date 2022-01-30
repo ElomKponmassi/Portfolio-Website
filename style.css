@@ -116,3 +116,13 @@ nav ul li a:hover::after{
     display: block;
     margin: 25px 5px;
 }
+.social-icons i{
+    font-size: 50px;
+    padding-left: 1px;
+    display: block;
+    margin: 25px 5px;
+}
+.social-icons a{
+    color: white;
+    text-decoration: none;
+}
